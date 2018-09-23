@@ -1,0 +1,2 @@
+LSTM: Long/Short Term Memory
+RNN- Recurrent neural Network-Internal state memory units to process the data ( unlike feedforward networks )
